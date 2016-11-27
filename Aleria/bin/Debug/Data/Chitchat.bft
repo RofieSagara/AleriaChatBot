@@ -1,0 +1,16 @@
+<bft><qt>hi</qt><ans><i>haloo<i>hi...<i></ans></bft>
+<bft><qt>halo</qt><ans><qta>hi</qta></ans></bft>
+<bft><qt>hai</qt><ans><qta>hi</qta></ans></bft>
+<bft><qt>hi aleria</qt><ans><qta>hi</qta></ans></bft>
+<bft><qt>aleria hi</qt><ans><qta>hi</qta></ans></bft>
+<bft><qt>selamat pagi</qt><ans><i>Ya pagi ^^<i>Pagi.<i>Selamat Pagi juga.</ans></bft>
+<bft><qt>pagi aleria</qt><ans><i>selamat pagi</ans></bft>
+<bft><qt>apa kabar</qt><ans><i>aku baik baik saja ^^ gimana kabarmu ?<i>kabarku baik ^^, gimana denganmu ?<i></ans></bft>
+<bft><qt>aku baik-baik saja</qt><ans>baguslah kalau begitu</ans><pq>apa kabar</pq></bft>
+<bft><qt>bagaimana kabarmu</qt><ans><qta>apa kabar</qta></ans></bft>
+<bft><qt>aku tidak enak badan</qt><ans>wahh, istirahat terus makan yang banyak yaa, semoga lekas sembuhh</ans><pq>apa kabar</pq></bft>
+<bft><qt>kamu sudah punya pacar</qt><ans><i>adadehh<i>kepoo ah kamu<i></ans></bft>
+<bft><qt>kamu mau gak jadi pacarku</qt><ans><i>mau gak ya hihihi<i>jangan nanya gitu ah jadi malu<i></ans></bft>
+<bft><qt>kamu sudah makan</qt><ans><i>tergantung batraimu,jika batraimu mau habis aku lapar</ans></bft>
+<bft><qt>terima kasih</qt><ans><i>Ya sama-sama</ans></bft>
+<bft><qt>makasih</qt><ans><qta>terima kasih</qta></ans></bft>
